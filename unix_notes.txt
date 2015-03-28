@@ -1,0 +1,399 @@
+# clear the screen
+clear
+
+# display the manual while being able to scroll
+man less
+
+#displays the history of fish while being able to scroll
+history | less
+
+#displays this list of things in the folder
+ls
+
+/Git
+/git
+H
+h
+
+#shows the history
+history
+
+#changes directory
+cd
+
+#uses nano to open the text file
+nano anothertry.txt
+
+sls
+l
+cd workspace/
+cd Desktop/
+cd Tested/
+lc
+cd .
+ls -a
+ls -a Desktop/
+ls Desktop/Programming/
+ls Desktop/
+ls ~/Desktop/
+ls ~
+cd ruby
+cd Programming/
+cd
+cd ../..
+cd codeacademy/
+cd ..
+cd classwork
+cd codefellows/
+cd Projects/
+cd test
+cd P
+ls Applications/
+cd /
+cd Applications/
+cd usage
+cd .heroku
+la -z
+ls -C -l
+ls -C
+man ls
+man cd
+man
+ls -t
+ls -r
+cd objects
+cd info
+cd branches
+cd .git
+ls -t -l
+cear
+ls -t -a
+pwd
+cd Users
+cd Guest/
+nkbjhgf
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+git --version
+brew info fish
+clera
+subl
+echo $SHELL
+git --ver
+brew doctor
+ls -G
+uname
+ruby path_to_enlightenment.rb
+cd koans
+ls -l
+la -a
+whoami
+mv temporary.txt anothertry.txt
+less temporary.txt
+cat temporary.txt
+nano temporary.txt
+touch temporary.txt
+cd obj
+cd Debug/
+cd x86/
+cd x
+cd test/
+cd pro
+cd TestCode/
+cd test_app
+cd railsbridge/
+cd hello_app/
+cd workspace
+git checkout
+git log
+git init
+cd Applications
+cd Documents/
+git status
+cd heads
+cd refs
+ls
+ruby path_to_enlightenment.rb
+subl about_regular_expressions.rb
+subl about_symbols.rb
+subl about_strings.rb
+subl about_hashes.rb
+subl about_array_assignment.rb
+subl about_arrays.rb
+cd programming
+cd desktop
+nano
+cd .rvm
+cd..
+cd -a
+irb
+exit
+subl about_objects.rb
+subl about_nil.rb
+subl about_asserts.rb
+cd downloads
+rake
+rake gen
+rake --version
+ruby --version
+type rvm | head -1
+source ~/.rvm/scripts/rvm
+source ~/.rvm/scripts.rvm
+curl -sSL https://get.rvm.io | bash -s stable
+curl -L https://get.rvm.io | bash -s stable --autolibs=enabled [--ruby] [--trace]
+source ~/.bash_profile
+subl .bash_profile
+echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # load RVM function' >> ~/.bash_profile
+brew update
+rails -v
+ruby -v
+rmdir temp
+rm iamcool.txt
+rm -rf i
+cd temp
+touch iamcool.txt
+popd
+pushd
+pushd i/like/icecream/
+pushd icecream
+pushd i/like
+mkdir -p i/like/icecream
+rmdir i
+rmdir like
+rmdir icecream
+cd like
+cd i
+cd icecream
+rmdir like/
+cd i/like/icecream
+mrdir i
+mkdir icecream
+mkdir like
+mkdir i
+mkdir temp
+cd ~
+hostname
+cd db
+cd home
+cd applications
+cd documents
+cd public
+cd cores
+cd library
+cd libra
+cd dev
+cd projects
+cd bin
+ruby thefirst.rb
+ruby -e 'print 123'
+ruby -e 'puts 123'
+ps aux
+top
+hello_app/
+subl routes.rb
+cd config
+subl application_controller.rb
+cd controllers
+ls app/controllers/*_controller.rb
+cd app
+rails server
+sudo gem pristine --all
+gem pristine --all
+gem pristine
+bundle install
+subl Gemfile
+cd vendor
+subl gemfile
+rails _4.2.0_ new hello_app
+mkdir workspace
+heroku open
+heroku info
+heroku run rake db:migrate
+git push heroku master
+git commit -m "Updates for heroku deployment"
+git add .
+bundle install --without production
+gem 'sqlite3'
+git remote show
+heroku create
+git commit -m "initial commit"
+git add -A
+cd rails
+cd .ssh
+la
+/users/deweyluu
+heroku keys:add
+ssh-add ~/.ssh/id_rsa
+ssh-keygen -C deweyluu@gmail.com -t rsa
+ls ~/.ssh/id_rsa
+heroku version
+rake db:migrate
+rails generate scaffold drink name:string temperature:integer
+rails generage scaffold drink name:string temperature:integer
+cd test_app/
+rails new test_app
+mkdir railsbridge
+xcode.app
+c ..
+cd deweyluu
+rvm -v
+curl -L get.rvm.io | bash -s stable
+rm .profile
+subl .bashrc
+subl .profile
+/Users/deweyluu/
+touch ~/.bash_profile
+cd /Users/deweyluu/
+cd /bin
+cd bash
+/Users/deweyluu/.profile
+/Users/deweyluu/.bash_profile
+/Users/deweyluu/.bash_profile source ~/.profile
+source ~/.bash_profile curl -L get.rvm.io | bash -s stable
+brew -v
+rvm
+which ruby
+gpg --keyserver khp://keys.gnupg.net --recv-keys D39DC0E3
+cd bin/rails
+cd usr/bin
+cd usr/bin/ruby
+sudo gem install rails
+curl -L https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --rails
+echo "gem: --no-document" >> ~/.gemrc
+which git
+gcc --version
+xcode-select --install
+xcode-select --install
+xcode-select --
+say hello dewey
+say dewey
+say library
+say wsup
+say hello
+subl tbracegame2.html
+tbracegame2.html
+cd htmlcssjavascriptRace/
+c
+cd homework
+cd codefellows
+cd deweyluu/
+cd users
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --list
+brew install git
+echo $PATH
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ln -s "/applications/sublime text 2.app/contents/sharedsupport/bin/subl" ~/bin/sublclear
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+cd local
+cd usr
+git config --global core.editor sublime
+open -a sublimetext2.app
+open -a sublime_text2.app
+open -a sublime text 2.app
+open -a sublime
+sublime text 2.app
+open sublime_text_2.app
+open sublime text 2.app
+open sublime
+sublime carmakeguess.html
+cd codefellows/firstday
+ln -s "/applications/sublime text 2.app/contents/sharedsupport/bin/subl" ~/bin/subl
+ln -s
+cd Sublime Text 2.app
+subl /Desktop/codefellows/firstday/carmakeguess.html
+subl .carmakeguess.html
+subl carmakeguess.html
+cd firstday
+git --list
+git
+git branch
+rm -r project
+cd stylesheets
+cd project
+cd famphotos
+ls -p
+vi .bash_profile
+cd~
+cd terminal
+mv terminalcheat3.png codefellows/terminal
+mv terminalcheat2.png codefellows/terminal
+mv terminalcheat1.png codefellows/terminal/
+mkdir terminal
+mv trytry2.css ../../public
+mv public trytry2.css
+mv trytry2.css public
+cp trytry.css trytry2.css
+cp trytry.css public/
+cd public/stylesheets
+cd sytlesheets
+rm project/
+rm project
+mv javascripts/ project/
+mv javascripts/ public/
+mkdir javascripts
+cd ...
+mv trytry.css stylesheets
+mv trytry.css public
+mv project trytry.css
+cd projecg
+mv trytry.css ../../project
+mv app.css trytry.css
+mv app.css ../../public
+mv stylesheet.css app.css
+touch stylesheet.css
+cd project/public/stylesheets
+mkdir -p project/public/stylesheets
+cd ~/desktop
+rm -r forfun
+-r forfun
+rm forfun
+cd ~/dropbox
+cd ~/documents
+mkdir forfun
+ls -la
+rm .nono
+rm letsee.txt
+ls -ls
+touch .nono
+touch letsee.txt
+cd ../../..
+subl .
+sublime
+cd sublime text 2.app
+ls -
+ls-l
+clar
+cd Applications/sublime
+git help config
+git config --global user.email deweyluu@gmail.com
+git config
+git config --global user.name "Dewey Luu"
+git config --global user.name
+git
+cd/Users/deweyluu
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+subl --help
+dir
+ln
+ls -s
+open greeting.html
+subl greeting.html
+cd codefellowsprojects
+cd desktip
+cd /applications
+subl . greeting.html
+subl.
+cd/
+cd.
+ls..
