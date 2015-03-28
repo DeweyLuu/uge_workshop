@@ -1,13 +1,16 @@
+# hidden folder where staging area and commits live
+.git/
+
 # clear the screen
 clear
 
 # display the manual while being able to scroll
 man less
 
-#displays the history of fish while being able to scroll
+# displays the history of fish while being able to scroll
 history | less
 
-#displays this list of things in the folder
+# displays this list of things in the folder
 ls
 
 /Git
@@ -15,13 +18,13 @@ ls
 H
 h
 
-#shows the history
+# shows the history
 history
 
-#changes directory
+# changes directory
 cd
 
-#uses nano to open the text file
+# uses nano to open the text file
 nano anothertry.txt
 
 sls
